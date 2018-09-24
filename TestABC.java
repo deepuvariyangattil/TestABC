@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class MathGuru {
     public static void main(String[] args) {
 		//Request for user info
+			//Hey this my test program. Dont use it.
         Scanner scanner = new Scanner(System.in);
         int userSelection, userInput;
         System.out.println("Please select the operation\n");
